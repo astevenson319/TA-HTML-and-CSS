@@ -1,0 +1,11 @@
+p {
+	color: blue;
+	background: ivory;
+	font-weight: bold;
+	text-align: right;
+}
+
+.p2 {
+	text-shadow: 4px 4px 8px blue;
+	color: green;
+}
